@@ -1,1 +1,3 @@
+からあげさん(karaage0703)作成のJetson nanoで識別器を動かすためのリポジトリのコピー
+
 tf_model
